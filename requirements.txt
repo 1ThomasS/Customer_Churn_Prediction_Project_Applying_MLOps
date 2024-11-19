@@ -1,7 +1,0 @@
-scikit-learn
-matplotlib
-pandas
-numpy
-tfx
-kfp
-
